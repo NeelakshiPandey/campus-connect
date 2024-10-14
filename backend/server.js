@@ -16,7 +16,7 @@ const app = express();
 
 // Configure CORS
 app.use(cors({
-  origin: ['https://campus-connect-gy5k.vercel.app','https://campus-connect-two.vercel.app'],
+  origin: ['https://campus-connect-gy5k.vercel.app', 'https://campus-connect-two.vercel.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   credentials: true,
