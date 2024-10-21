@@ -25,11 +25,11 @@ const AboutUsScreen = () => {
           <h1 className='section-title'>Developer</h1>
           <p className='section-content'>
             Designed and developed by <br />
-            <strong>Shivam Gupta</strong>
+            <strong>Neelakshi Pandey</strong>
           </p>
           <h3 className='contact-title'>Contact Details</h3>
           <p className='contact-info'>
-            <i className='fas fa-phone'></i> 8840748023 <br />
+            <i className='fas fa-phone'></i>9555200436<br />
             <i className='fas fa-envelope-square'></i>{' '}
             <a target='_blank' href='mailto:campus.connect@gmail.com'>campus.connect@gmail.com</a>
           </p>
